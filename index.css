@@ -1,0 +1,11 @@
+.background {
+    background-color:azure;
+}
+    .banner{
+    background-image: url(/images/pngtree-simple-summer-tourism-travel-image_9073.jpg);
+    height: 75px;
+}
+.formStyle {
+    margin-top: 50px;
+    text-align: center;
+}
